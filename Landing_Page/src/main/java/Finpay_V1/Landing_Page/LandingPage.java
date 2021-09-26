@@ -24,4 +24,8 @@ public class LandingPage
       abtNav.click();
       
     }
+    
+   public void pickdates(){
+	   System.out.println("ill pick a date");
+   }
 }
